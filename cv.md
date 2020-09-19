@@ -18,12 +18,12 @@ Political Science, 2018-2022
 
 InLiberty, 2020 Summer School
 
-####Skills:
+#### Skills:
 * R (multivariate linear regression, principal component analyses, factor analyses)
 * Python (NumPy, pandas, matplotlib)
 * Statistics and Probability
 * English (B2)
 
-
+Thank you for your time!
 
 
