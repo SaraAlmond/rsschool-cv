@@ -12,11 +12,11 @@ https://t.me/saraAlmond
 With a keen interest in the web development, I would be thrilled to apply as an intern for the Yandex Internship 2020 (fall). 
 
 #### Education:
-Higher School of Economics, Moscow
+Higher School of Economics, 
 Political Science, 2018-2022
 (Top 100 in the world, QS Ranking, 2020)
 
-InLiberty, 2020 Summer School
+InLiberty, Summer School, 2020
 
 #### Skills:
 * R (multivariate linear regression, principal component analyses, factor analyses)
